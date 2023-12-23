@@ -66,6 +66,6 @@ const modalMessageList = [
   { "number": 20, "message": "언니 내꺼 목돌아갔어 AS 시급" },
   { "number": 21, "message": "Happy Heewon Day" },
   { "number": 22, "message": "누가 머리를 퍼렇게 칠해놨어" },
-  { "number": 23, "message": "" },
-  { "number": 24, "message": "" }
+  { "number": 23, "message": "Coming Soon" },
+  { "number": 24, "message": "Coming Soon" }
 ];
